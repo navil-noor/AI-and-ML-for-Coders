@@ -1,6 +1,5 @@
 # AI-and-ML-for-Coders
 
-Codes and exercises done from the book
 
 Chapter 1 - Introduction to TensorFlow
   - Basic Machine Learning Model to determine a linear relationship between two values
